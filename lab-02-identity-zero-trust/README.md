@@ -1,4 +1,4 @@
-# Lab 02 – Idenity Zero Trust
+# Lab 02 – Identity Zero Trust
 
 ## Objective
 
