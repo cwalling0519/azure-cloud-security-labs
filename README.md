@@ -1,4 +1,4 @@
-# Azure Cloud Security Engineering Portfolio – Corey W
+# Azure Cloud Security Engineering Portfolio – Corey Walling
 
 This repository contains hands-on Azure security labs focused on identity protection, network segmentation, governance, monitoring, and least privilege design.
 
